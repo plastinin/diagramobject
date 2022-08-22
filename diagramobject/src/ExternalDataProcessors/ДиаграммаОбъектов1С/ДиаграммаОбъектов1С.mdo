@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="10d29148-9288-47ef-858c-f294ff857a0d">
+  <producedTypes>
+    <objectType typeId="00511548-8307-4ae1-8240-02ea95aaa08f" valueTypeId="cc03a23c-f844-499c-91c6-0c179accd62c"/>
+  </producedTypes>
+  <name>ДиаграммаОбъектов1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Диаграмма объектов 1С</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="114b5186-754f-440c-ab74-c192d682b3ee"/>
+  <defaultForm>ExternalDataProcessor.ДиаграммаОбъектов1С.Form.Форма</defaultForm>
+  <forms uuid="45ecd1b3-b695-4892-9e4c-cc786ef31316">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="3f6c73ad-301d-4e96-82cb-dbac44e431c4">
+    <name>ОтборПоПодсистемам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отбор по подсистемам</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
