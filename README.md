@@ -1,6 +1,11 @@
 # Диаграмма объектов 1С
 
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/simplelogic)
+[![Last release](https://img.shields.io/github/v/release/plastinin/diagramobject?include_prereleases&label=last%20release&style=badge)](https://github.com/plastinin/diagramobject/releases/latest)
+[![download](https://img.shields.io/github/downloads/plastinin/diagramobject/total)](https://github.com/plastinin/diagramobject/releases/download/latest/)
+[![GitHub issues](https://img.shields.io/github/issues-raw/plastinin/diagramobject?style=badge)](https://github.com/plastinin/diagramobject/issues)
+[![License](https://img.shields.io/github/license/plastinin/diagramobject?style=badge)](https://github.com/plastinin/diagramobject/blob/master/LICENSE)
+
 ![](img/main_window.png)
 
 ## Логика работы
