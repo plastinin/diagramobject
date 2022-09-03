@@ -340,10 +340,6 @@
               <horizontalAlign>Left</horizontalAlign>
               <autoFill>true</autoFill>
             </autoCommandBar>
-            <handlers>
-              <event>Selection</event>
-              <name>ДеревоОбъектовМетаданныхВыбор</name>
-            </handlers>
             <searchStringAddition>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1280,10 +1276,6 @@
             <segments>ФормироватьРеквизитныйСоставОбъектов</segments>
           </dataPath>
           <titleLocation>Right</titleLocation>
-          <handlers>
-            <event>OnChange</event>
-            <name>ФормироватьРеквизитныйСоставОбъектовПриИзменении</name>
-          </handlers>
           <extendedTooltip>
             <name>ФормироватьРеквизитныйСоставОбъектовРасширеннаяПодсказка</name>
             <id>94</id>
