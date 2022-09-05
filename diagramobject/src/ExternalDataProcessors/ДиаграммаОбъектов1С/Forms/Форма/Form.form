@@ -1276,6 +1276,10 @@
             <segments>ФормироватьРеквизитныйСоставОбъектов</segments>
           </dataPath>
           <titleLocation>Right</titleLocation>
+          <handlers>
+            <event>OnChange</event>
+            <name>ФормироватьРеквизитныйСоставОбъектовПриИзменении</name>
+          </handlers>
           <extendedTooltip>
             <name>ФормироватьРеквизитныйСоставОбъектовРасширеннаяПодсказка</name>
             <id>94</id>
