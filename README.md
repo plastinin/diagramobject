@@ -1,5 +1,5 @@
 # Диаграмма объектов 1С
-
+[![Статус порога качества](https://sonar.openbsl.ru/api/project_badges/measure?project=diagramobject&metric=alert_status)](https://sonar.openbsl.ru/dashboard?id=diagramobject)
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/simplelogic)
 [![Last release](https://img.shields.io/github/v/release/plastinin/diagramobject?include_prereleases&label=last%20release&style=badge)](https://github.com/plastinin/diagramobject/releases/latest)
 [![download](https://img.shields.io/github/downloads/plastinin/diagramobject/total)](https://github.com/plastinin/diagramobject/releases/download/latest/)
