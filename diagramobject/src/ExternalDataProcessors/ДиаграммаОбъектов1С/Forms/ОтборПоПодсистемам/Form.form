@@ -555,25 +555,6 @@
     </edit>
   </attributes>
   <attributes>
-    <name>База</name>
-    <title>
-      <key>ru</key>
-      <value>База</value>
-    </title>
-    <id>4</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-    <fillChecking>ShowError</fillChecking>
-  </attributes>
-  <attributes>
     <name>ИсточникМетаданных</name>
     <title>
       <key>ru</key>
