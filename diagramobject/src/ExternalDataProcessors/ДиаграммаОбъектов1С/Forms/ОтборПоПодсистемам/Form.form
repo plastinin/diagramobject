@@ -574,6 +574,26 @@
       <common>true</common>
     </edit>
   </attributes>
+  <attributes>
+    <name>СписокРасширений</name>
+    <title>
+      <key>ru</key>
+      <value>Список расширений</value>
+    </title>
+    <id>4</id>
+    <valueType>
+      <types>ValueList</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <extInfo xsi:type="form:ValueListExtInfo">
+      <itemValueType/>
+    </extInfo>
+  </attributes>
   <formCommands>
     <name>ВыбратьОбъекты</name>
     <title>
