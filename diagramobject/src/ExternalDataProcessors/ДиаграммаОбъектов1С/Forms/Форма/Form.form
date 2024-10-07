@@ -1199,7 +1199,7 @@
               <id>82</id>
               <title>
                 <key>ru</key>
-                <value>&lt;b>&lt;fontsize 12>&lt;img 0:26abd244-8dd5-417e-aed0-247a573394ca/> Шаг 2&lt;/>&lt;/>&lt;fontsize 12>: &lt;/>&lt;link GenerateCode>&lt;fontsize 12>Cгенерировать&lt;/>&lt;/>&lt;fontsize 12> схему для диаграммы&lt;/></value>
+                <value>&lt;fontsize 12>&lt;b>&lt;img 0:26abd244-8dd5-417e-aed0-247a573394ca/> Шаг 2&lt;/>&lt;/>&lt;fontsize 12>: &lt;/>&lt;link GenerateCode>&lt;fontsize 12>Cгенерировать схему&lt;/>&lt;/>&lt;fontsize 12> &lt;/></value>
               </title>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1671,7 +1671,7 @@
               <id>87</id>
               <title>
                 <key>ru</key>
-                <value>&lt;b>&lt;fontsize 12>&lt;img 0:3689585c-a3e2-45d0-a302-caeb31b78835/> Шаг 3&lt;/>&lt;/>&lt;fontsize 12>: &lt;/>&lt;link GenerateScheme>&lt;fontsize 12>Сгенерировать&lt;/>&lt;/>&lt;fontsize 12> диаграмму&lt;/></value>
+                <value>&lt;fontsize 12>&lt;b>&lt;img 0:3689585c-a3e2-45d0-a302-caeb31b78835/> Шаг 3&lt;/>&lt;/>&lt;fontsize 12>: &lt;/>&lt;link GenerateScheme>&lt;fontsize 12>Сгенерировать Диаграмму&lt;/>&lt;/></value>
               </title>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2683,6 +2683,11 @@
           <type>UsualGroup</type>
           <extInfo xsi:type="form:UsualGroupExtInfo">
             <group>Vertical</group>
+            <behavior>Collapsible</behavior>
+            <collapsedRepresentationTitle>
+              <key>ru</key>
+              <value>Список расширений >></value>
+            </collapsedRepresentationTitle>
             <representation>WeakSeparation</representation>
             <showLeftMargin>true</showLeftMargin>
             <united>true</united>
@@ -2829,6 +2834,11 @@
             <type>UsualGroup</type>
             <extInfo xsi:type="form:UsualGroupExtInfo">
               <group>Vertical</group>
+              <behavior>Collapsible</behavior>
+              <collapsedRepresentationTitle>
+                <key>ru</key>
+                <value>Код библиотеки >></value>
+              </collapsedRepresentationTitle>
               <representation>WeakSeparation</representation>
               <showLeftMargin>true</showLeftMargin>
               <united>true</united>
@@ -3236,6 +3246,11 @@
             <type>UsualGroup</type>
             <extInfo xsi:type="form:UsualGroupExtInfo">
               <group>HorizontalIfPossible</group>
+              <behavior>Collapsible</behavior>
+              <collapsedRepresentationTitle>
+                <key>ru</key>
+                <value>Префисы объектов >></value>
+              </collapsedRepresentationTitle>
               <representation>WeakSeparation</representation>
               <showLeftMargin>true</showLeftMargin>
               <united>true</united>
